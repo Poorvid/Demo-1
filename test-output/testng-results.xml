@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-22T11:52:51 IST" name="Suite" finished-at="2021-12-22T11:54:20 IST" duration-ms="89011">
+    <groups>
+    </groups>
+    <test started-at="2021-12-22T11:52:51 IST" name="Test" finished-at="2021-12-22T11:54:20 IST" duration-ms="89011">
+      <class name="demo.testng.secondTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:demo.testng.secondTest@41fecb8b]" started-at="2021-12-22T11:52:56 IST" name="start" finished-at="2021-12-22T11:53:04 IST" duration-ms="7606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="secondclasstest()[pri:0, instance:demo.testng.secondTest@41fecb8b]" started-at="2021-12-22T11:53:04 IST" name="secondclasstest" finished-at="2021-12-22T11:54:20 IST" duration-ms="75973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondclasstest -->
+      </class> <!-- demo.testng.secondTest -->
+      <class name="demo.testng.firstTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:demo.testng.firstTest@6631f5ca]" started-at="2021-12-22T11:52:51 IST" name="start" finished-at="2021-12-22T11:52:56 IST" duration-ms="5399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="firstclasstest()[pri:0, instance:demo.testng.firstTest@6631f5ca]" started-at="2021-12-22T11:53:04 IST" name="firstclasstest" finished-at="2021-12-22T11:53:16 IST" duration-ms="12154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstclasstest -->
+      </class> <!-- demo.testng.firstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
