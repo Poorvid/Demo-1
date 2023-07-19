@@ -19,7 +19,7 @@ WebDriver driver;
 	@Test
 	public void thirdclasstest()
 	{
-		driver.get("https://tiimesofindia.indiatimes.com//");
+		driver.get("https://tiiiiiiiiiiiiimesofindia.indiatimes.com//");
 		driver.close();
 		
 	}
